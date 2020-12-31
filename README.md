@@ -1,4 +1,4 @@
-These are the project I did in Web Applicayions (CSE 183) @ UCSC taught by Luca de Alfaro. 
+These are the project I did in Web Applications (CSE 183) @ UCSC taught by Luca de Alfaro. 
 
 Technolgies: py4web which uses javascript, Bulma CSS, and python.
 bottle.py is the db
