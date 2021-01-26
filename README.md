@@ -7,6 +7,7 @@ bottle.py is the db
 
 Note: The use of signing/encrypting requests is used throughtout this course to ensure our applications are safe to some degree. 
 
+
 1) Bulma CSS project is a simple one page app that was designed for students
 to get there feet wet with web technologies used for this class. 
 
@@ -15,6 +16,8 @@ For description: https://sites.google.com/a/ucsc.edu/luca/classes/cmps-183-hyper
 
 3) Address Book allows for users to create/edit/delete contacts for people.
 For discription: https://sites.google.com/a/ucsc.edu/luca/classes/cmps-183-hypermedia-and-the-web/cse-183-spring-2020/homework-4
+
+Note: the videos listed below were created by my professor and best represent the functionality of the projects I've completed. 
 
 4) Postlandia is a simple posting forum that allows users to create/edit/delete their posts on a forum. User priviledges are limited
 if the post does not belong to the current user and required different styling than the Address Book. 
